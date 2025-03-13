@@ -2,6 +2,7 @@ import numpy as np
 from scipy.optimize import minimize
 import sys
 
+
 sys.stdout.reconfigure(encoding='utf-8')
 
 
